@@ -1,0 +1,4 @@
+marked 18.0.13
+dompurify 3.4.15
+katex 0.18.7
+Bundled locally; see accompanying licenses.
